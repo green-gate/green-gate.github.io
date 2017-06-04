@@ -1,0 +1,25 @@
+{
+  "name": "green-gate.github.io",
+  "version": "0.1.0",
+  "description": "chi phi mu chapter website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green-gate/green-gate.github.io.git"
+  },
+  "keywords": [
+    "Chi",
+    "Phi",
+    "Fraternity",
+    "Stevens"
+  ],
+  "author": "K Poli, J Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/green-gate/green-gate.github.io/issues"
+  },
+  "homepage": "https://github.com/green-gate/green-gate.github.io#readme"
+}
